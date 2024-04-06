@@ -21,6 +21,12 @@
 	text-rendering:auto;
 	-webkit-font-smoothing:antialiased;
 	-moz-osx-font-smoothing:grayscale;
+
+  font-family: 'Academicons';
+  font-weight: 400;
+  font-style: normal;
+  font-variant: normal;
+  line-height: 1;
 }
 .ai-academia:before {
   content: "\e800";

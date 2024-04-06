@@ -29,14 +29,14 @@ My research is primarily dedicated to apply the deep learning algorithm for addr
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJEECS 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJEECS 2022</div><img src='images/IJEECS2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A novel fast-qualitative balance test method of screening for vestibular disorder patients](http://doi.org/10.11591/ijeecs.v25.i2.pp910-919)
 
 Tran Anh Vu, Hoang Quang Huy, **Le Van Tuan**, Pham Thi Viet Huong
 
-The Indonesian Journal of Electrical Engineering and Computer Science (IJEECS 2022).
+The Indonesian Journal of Electrical Engineering and Computer Science (2022).
 
 <a href="https://ijeecs.iaescore.com/index.php/IJEECS/article/view/26925/16007"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <!-- <a href=""><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a> -->
@@ -44,7 +44,7 @@ The Indonesian Journal of Electrical Engineering and Computer Science (IJEECS 20
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTTU 2019</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTTU 2019</div><img src='images/JSTTU2019.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The models of Relationship Between Center of Gravity of Human and Weight, Height and 3 body’s indicators (Chest, Waist and Hip)](https://eprints.uet.vnu.edu.vn/eprints/id/eprint/3913/)
