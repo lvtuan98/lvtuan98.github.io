@@ -17,42 +17,62 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Currently, I am a Research Engineer at Samsung SDS R&D Center, Samsung SDS, Vietnam. Prior to this, I completed my Engineer's degree at School of Electronic and Telecommunication (SET), Hanoi University of Science and Technology (HUST) with major of Biomedical Engineering and was in the TOP 5 students of SET (2021) graduating with the excellent degree. During this period, I have 2 papers published in journals.
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+My research is primarily dedicated to apply the deep learning algorithm for addressing computer vision tasks in Medical and Optical Character Rcognition (OCR) sphree.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJEECS 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[A novel fast-qualitative balance test method of screening for vestibular disorder patients](http://doi.org/10.11591/ijeecs.v25.i2.pp910-919)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Tran Anh Vu, Hoang Quang Huy, **Le Van Tuan**, Pham Thi Viet Huong
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+The Indonesian Journal of Electrical Engineering and Computer Science (IJEECS 2022).
+
+<a href="https://ijeecs.iaescore.com/index.php/IJEECS/article/view/26925/16007"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<!-- <a href=""><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a> -->
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTTU 2019</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The models of Relationship Between Center of Gravity of Human and Weight, Height and 3 body’s indicators (Chest, Waist and Hip)](https://eprints.uet.vnu.edu.vn/eprints/id/eprint/3913/)
+
+Tran, Anh Vu and Hoang, Quang Huy and Nguyen, Anh Tu and **Le, Van Tuan** and Le, Viet Khanh and Pham, Thi Viet Huong
+
+Journal of Science & Technology technical Universities (2019).
+
+<a href="https://eprints.uet.vnu.edu.vn/eprints/id/eprint/3913/"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<!-- <a href=""><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a> -->
+</div>
+</div>
+
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Aug. 2023*: Employee of the month, Samsung SDS, Vietnam
+- *Aug. 2021*: Certificate of Excellent Graduate Student, HUST, Vietnam
+- *Aug. 2021*: Best Thesis Presentation Award - School of Electronics and Telecommunication, HUST, Vietnam
+- *Feb. 2021*: Certificate of Teaching Assistantship, for first semester in 2020 at the School of Electronics and Telecommunication, HUST, Vietnam.
+- *Dec. 2019*: Top 6 in “Sang tao tre 2019 [Youth Innovation 2019]” – “Smart up for life” organized by Hanoi University of Science and Technology, Vietnam.
+- *May. 2019 & May. 2021*: Scientific Research Student Award, Department of Electronics Technology and Biomedical Engineering, HUST, Vietnam.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Sep. 2016 - Aug. 2021*: Bachelor of Engineering in Electronics and Telecommunications, Hanoi University of Science and Technology, Vietnam.
+Thesis: “Building a system to evaluate the balance ability of the human body based on image processing”
+Outcomes: CGPA: 3.62/4.0 (equivalent to 90.5%), 
+                    Published 2 journal articles.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Experience
+- *Feb. 2023 - Now*: AI Researcher, AI Research Lab, SDSRV, Samsung SDS, Samsung Group.
+- *Feb. 2022 - Dec. 2022*: Applied Scientist, Department of AI Computer Vision, VinBrain, Vingroup, Vietnam.
+- *Sep. 2021 - Jan. 2022*: AI Engineer in AI Engineer Training Program, VinBigdata Institute, Vingroup, Vietnam.
+
