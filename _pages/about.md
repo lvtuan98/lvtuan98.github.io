@@ -23,6 +23,10 @@ Currently, I am a Research Engineer at Samsung SDS R&D Center, Samsung SDS, Viet
 
 My research is primarily dedicated to apply the deep learning algorithm for addressing computer vision tasks in Medical and Optical Character Rcognition (OCR) sphree.
 
+<!-- # 🔥 News
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJEECS 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
