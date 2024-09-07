@@ -78,5 +78,5 @@ Outcomes: CGPA: 3.62/4.0 (equivalent to 90.5%),
 # 💻 Experience
 - *Feb. 2023 - Now*: AI Researcher, AI Research Lab, SDSRV, Samsung SDS, Samsung Group.
 - *Feb. 2022 - Dec. 2022*: Applied Scientist, Department of AI Computer Vision, VinBrain, Vingroup, Vietnam.
-- *Sep. 2021 - Jan. 2022*: AI Engineer in AI Engineer Training Program, VinBigdata Institute, Vingroup, Vietnam.
+- *Sep. 2021 - Jul. 2022*: AI Engineer in AI Engineer Training Program, VinBigdata Institute, Vingroup, Vietnam.
 
