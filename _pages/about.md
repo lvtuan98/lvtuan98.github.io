@@ -21,7 +21,7 @@ redirect_from:
 
 Currently, I am a Research Engineer at Samsung SDS R&D Center, Samsung SDS, Vietnam. Prior to this, I completed my Engineer's degree at School of Electronic and Telecommunication (SET), Hanoi University of Science and Technology (HUST) with major of Biomedical Engineering and was in the TOP 5 students of SET (2021) graduating with the excellent degree. During this period, I have 2 papers published in journals.
 
-My research is primarily dedicated to apply the deep learning algorithm for addressing computer vision tasks in Medical and Optical Character Rcognition (OCR) sphree.
+My research is primarily dedicated to apply the deep learning algorithm for addressing computer vision tasks in Medical and Optical Character Recognition (OCR) fields.
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
