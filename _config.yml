@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Van Tuan LE"
-description              : "Research Engineer at Samsung SDS"
+description              : "Applied Scientist at NVIDIA"
 repository               : "lvtuan98/lvtuan98.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : "resume/Van Tuan LE - CV_Dec2024.pdf"
+  cv               : "resume/Van Tuan LE - PhD CV.pdf"
 
 
 # Reading Files
