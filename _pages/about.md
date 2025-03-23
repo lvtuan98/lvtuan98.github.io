@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-Currently, I am a Research Engineer at Samsung SDS R&D Center, Samsung SDS, Vietnam. Prior to this, I completed my Engineer's degree at School of Electronic and Telecommunication (SET), Hanoi University of Science and Technology (HUST) with major of Biomedical Engineering and was in the TOP 5 students of SET (2021) graduating with the excellent degree. During this period, I have 2 papers published in journals.
+Currently, I am an Applied Scientist at NVIDIA, Vietnam. Prior to this, I completed my Engineer's degree at School of Electronic and Telecommunication (SET), Hanoi University of Science and Technology (HUST) with major of Biomedical Engineering and was in the TOP 5 students of SET (2021) graduating with the excellent degree. During this period, I have 2 papers published in journals.
 
 My research is primarily dedicated to apply the deep learning algorithm for addressing computer vision tasks in Medical and Optical Character Recognition (OCR) fields.
 
@@ -76,7 +76,8 @@ Outcomes: CGPA: 3.62/4.0 (equivalent to 90.5%),
 
 
 # 💻 Experience
-- *Feb. 2023 - Now*: AI Researcher, AI Research Lab, SDSRV, Samsung SDS, Samsung Group.
+- *Dec.2024 - Now*: Applied Scientist, NVIDIA, Vietnam.
+- *Feb. 2023 - Oct. 2024*: AI Researcher, AI Research Lab, SDSRV, Samsung SDS, Samsung Group.
 - *Feb. 2022 - Dec. 2022*: Applied Scientist, Department of AI Computer Vision, VinBrain, Vingroup, Vietnam.
 - *Sep. 2021 - Jul. 2022*: AI Engineer in AI Engineer Training Program, VinBigdata Institute, Vingroup, Vietnam.
 
