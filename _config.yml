@@ -23,7 +23,6 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Van-Tuan Le"
   avatar           : "images/profile/avatar_image.jpg"
-  profile_image    : "images/profile/profile_image.JPG"
   bio              : "Talk less - Do more!"
   location         : "Hanoi, Vietnam"
   employer         :
