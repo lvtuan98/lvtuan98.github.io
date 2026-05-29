@@ -46,7 +46,7 @@ My research interests include Computer Vision (Medical Imaging and OCR), Generat
 
 Manh-Tu Luong, Khanh Huyen Thi Pham, Nhat-Hai Nguyen, **Van-Tuan Le**, Phu Tran Vinh Pham, Tan Khanh Nguyen, Thi-Thu Nguyen
 
-Molecular Diversity .
+Molecular Diversity (2026).
 
 <a href="https://link.springer.com/article/10.1007/s11030-025-11448-4"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/AppliedAI-Lab/FRAIL.git"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
