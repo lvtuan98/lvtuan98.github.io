@@ -27,6 +27,7 @@ My research interests include Computer Vision (Medical Imaging and OCR), Generat
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 1 paper about Biology was accepted by GenBio Workshop at ICML (rank A*). 
+- *2026.01*: &nbsp;🎉🎉 My project at NVIDIA is released, please check out <a href="https://build.nvidia.com/mit/diffdock/modelcard">Diffdock</a>.
 - *2026.01*: &nbsp;🎉🎉 1 paper about Biology was accepted by Molecular Diversity (ISI-Q2).
 - *2024.12*: &nbsp;🎉🎉 I start a new role as an Applied Scientist at NVIDIA (VN).
 - *2023.02*: &nbsp;🎉🎉 I start a new role as an AI Reseacher at SamsungSDS (VN).
@@ -91,20 +92,19 @@ Journal of Science & Technology technical Universities (2019).
 - *Aug. 2021*: Certificate of Excellent Graduate Student, HUST, Vietnam
 - *Aug. 2021*: Best Thesis Presentation Award - School of Electronics and Telecommunication, HUST, Vietnam
 - *Feb. 2021*: Certificate of Teaching Assistantship, for first semester in 2020 at the School of Electronics and Telecommunication, HUST, Vietnam.
-- *Oct. 2020*: Scholarship ”Ho Tro Hoc Tap 20192” (GPA 4.0 and Activity score 90), Hanoi University of Science and Technology (HUST).
+- *Oct. 2020*: Scholarship ”Ho Tro Hoc Tap 20192” (GPA 4.0 and Activity score 90), Hanoi University of Science and Technology (HUST), Vietnam.
 - *Dec. 2019*: Top 6 in “Sang tao tre 2019 [Youth Innovation 2019]” – “Smart up for life” organized by Hanoi University of Science and Technology, Vietnam.
 - *May. 2019 & May. 2021*: Scientific Research Student Award, Department of Electronics Technology and Biomedical Engineering, HUST, Vietnam.
 
 # 📖 Educations
 - *Sep. 2016 - Aug. 2021*: Bachelor of Engineering in Electronics and Telecommunications, Hanoi University of Science and Technology, Vietnam.
-Thesis: “Building a system to evaluate the balance ability of the human body based on image processing”
-Outcomes: CGPA: 3.62/4.0 (equivalent to 90.5%), 
-                    Published 2 journal articles.
+Thesis: “Building a system to evaluate the balance ability of the human body based on image processing”<br>
+Outcomes: CGPA: 3.62/4.0 (equivalent to 90.5%), and 2 journal publications.
 
 
 # 💻 Experience
 - *Dec.2024 - Now*: Applied Scientist, <a href="https://www.linkedin.com/company/nvidia/">NVIDIA</a>, Vietnam.
-- *Feb. 2023 - Oct. 2024*: AI Researcher, AI Research Lab, SDSRV, <a href="https://www.linkedin.com/company/samsung-sds/">Samsung SDS</a>, Samsung Group.
+- *Feb. 2023 - Oct. 2024*: AI Researcher, AI Research Lab, SDSRV, <a href="https://www.linkedin.com/company/samsung-sds/">Samsung SDS</a>, Samsung Group, Vietnam.
 - *Feb. 2022 - Dec. 2022*: Applied Scientist, Department of AI Computer Vision, <a href="https://www.linkedin.com/company/vinbrain/">VinBrain</a>, Vingroup, Vietnam.
 - *Sep. 2021 - Jul. 2022*: AI Engineer in AI Engineer Training Program, <a href="https://www.linkedin.com/company/vin-big-data/">VinBigdata Institute</a>, Vingroup, Vietnam.
 

@@ -23,12 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Van-Tuan Le"
   avatar           : "images/profile/avatar_image.jpg"
+  profile_image    : "images/profile/profile_image.JPG"
   bio              : "Talk less - Do more!"
-  location         : "Vietnam"
+  location         : "Hanoi, Vietnam"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Ik2bTR4AAAAJ" #GOOGLE_SCHOLAR_ID
-  email            : "tuan.lv311098@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=GOOGLE_SCHOLAR_ID" #https://scholar.google.com/citations?user=Ik2bTR4AAAAJ
+  email            : "AUTHOR_EMAIL"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,21 +38,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lvtuan98"
+  github           : "AUTHOR_GITHUB"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "tuanleoct31"
+  linkedin         : "AUTHOR_LINKEDIN"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-9504-0755"
+  orcid            : "AUTHOR_ORCID"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "teriusleo"
+  twitter          : #"teriusleo"
   vine             :
   weibo            :
   xing             :

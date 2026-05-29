@@ -5,7 +5,13 @@
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
-    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+    {% if author.profile_image %}
+      <a href="{{ author.profile_image }}" target="_blank">
+        <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}" title="Click to view full profile image">
+      </a>
+    {% else %}
+      <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+    {% endif %}
   </div>
 
   <div class="author__content">
