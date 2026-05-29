@@ -6,7 +6,7 @@
 
   <div class="author__avatar">
     {% if author.profile_image %}
-      <a href="{{ author.profile_image }}" target="_blank">
+      <a href="{{ author.profile_image | absolute_url }}" target="_blank">
         <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}" title="Click to view full profile image">
       </a>
     {% else %}
@@ -126,6 +126,9 @@
       {% endif %}
       {% if author.cv %}
         <li><a href="{{ author.cv }}"><i class="ai ai-cv-square ai-fw" aria-hidden="true"></i> Resume</a></li>
+      {% endif %}
+      {% if author.profile_image %}
+        <li><a href="{{ author.profile_image | absolute_url }}" target="_blank"><i class="fa fa-fw fa-image" aria-hidden="true"></i> Profile Image</a></li>
       {% endif %}
     </ul>
       <div class="author__urls_sm">
