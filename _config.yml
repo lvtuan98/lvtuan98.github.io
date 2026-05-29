@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Van Tuan LE"
-description              : "Applied Scientist at NVIDIA"
+title                    : "Van-Tuan Le"
+description              : "AI Researcher | Applied Scientist at NVIDIA"
 repository               : "lvtuan98/lvtuan98.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Van Tuan LE"
-  avatar           : "images/Van Tuan LE.jpg"
+  name             : "Van-Tuan Le"
+  avatar           : "images/profile/avatar_image.jpg"
   bio              : "Talk less - Do more!"
   location         : "Vietnam"
   employer         :
