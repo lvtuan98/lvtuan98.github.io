@@ -59,6 +59,11 @@ author:
   wikipedia        :
   cv               : "resume/TuanLe_CV.pdf"
 
+# Chat Assistant
+chat_assistant:
+  enabled: true
+  backend_url: "CHAT_BACKEND_URL"
+
 
 # Reading Files
 include:
@@ -68,6 +73,7 @@ include:
 exclude:
   - docs
   - google_scholar_crawler
+  - assistant
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

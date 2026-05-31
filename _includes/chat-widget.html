@@ -1,0 +1,29 @@
+{% if site.chat_assistant.enabled %}
+<link rel="stylesheet" href="{{ '/assets/css/chat-widget.css' | relative_url }}">
+
+<button class="chat-toggle" aria-label="Open chat">
+  <svg viewBox="0 0 24 24"><path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H5.2L4 17.2V4h16v12z"/></svg>
+</button>
+
+<div class="chat-panel">
+  <div class="chat-header">
+    <img class="chat-header-avatar" src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name }}">
+    <div class="chat-header-info">
+      <h4>{{ site.author.name }}'s Assistant</h4>
+      <p>Ask me anything</p>
+    </div>
+  </div>
+
+  <div class="chat-messages"></div>
+
+  <div class="chat-input-area">
+    <input type="text" id="chat-input" placeholder="Type a message..." autocomplete="off">
+    <button id="chat-send" aria-label="Send">
+      <svg viewBox="0 0 24 24"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/></svg>
+    </button>
+  </div>
+</div>
+
+<script>window.CHAT_BACKEND_URL = "{{ site.chat_assistant.backend_url }}";</script>
+<script src="{{ '/assets/js/chat-widget.js' | relative_url }}"></script>
+{% endif %}

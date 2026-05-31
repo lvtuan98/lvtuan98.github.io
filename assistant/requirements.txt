@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic[email]
+httpx
+pyyaml
+langgraph
+langchain-openai
+langchain-google-genai

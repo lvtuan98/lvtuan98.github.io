@@ -1,0 +1,77 @@
+name: Deploy Chat Assistant to Remote Server
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "assistant/**"
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup SSH key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -H ${{ secrets.SSH_HOST_NAME }} >> ~/.ssh/known_hosts
+
+      - name: Clone/pull and deploy on remote
+        run: |
+          ssh ${{ secrets.SSH_USER_NAME }}@${{ secrets.SSH_HOST_NAME }} << 'EOF'
+            REPO_URL="https://github.com/${{ github.repository }}.git"
+            APP_DIR=~/chat-assistant
+            REPO_DIR=~/chat-assistant-repo
+
+            # Clone or pull the latest
+            if [ -d "$REPO_DIR/.git" ]; then
+              cd "$REPO_DIR"
+              git fetch origin main
+              git reset --hard origin/main
+            else
+              git clone --depth 1 --branch main "$REPO_URL" "$REPO_DIR"
+            fi
+
+            # Sync assistant files (preserve .env and venv)
+            mkdir -p "$APP_DIR"
+            rsync -av --delete \
+              --exclude '.env' \
+              --exclude 'venv' \
+              --exclude '__pycache__' \
+              "$REPO_DIR/assistant/" "$APP_DIR/"
+
+            cd "$APP_DIR"
+
+            # Create venv if it doesn't exist
+            if [ ! -d "venv" ]; then
+              python3 -m venv venv
+            fi
+
+            source venv/bin/activate
+            pip install -q -r requirements.txt
+
+            # Create .env from example if it doesn't exist
+            if [ ! -f ".env" ]; then
+              cp .env.example .env
+              echo "WARNING: .env created from template -- please configure it on the server"
+            fi
+
+            # Restart the service (systemd or direct)
+            if systemctl --user is-active chat-assistant.service &>/dev/null; then
+              systemctl --user restart chat-assistant.service
+            else
+              pkill -f "uvicorn main:app" || true
+              nohup venv/bin/uvicorn main:app --host 0.0.0.0 --port 8001 > server.log 2>&1 &
+              sleep 2
+              echo "Server started (PID: $!)"
+            fi
+
+            # Health check
+            sleep 3
+            curl -sf http://localhost:8001/health && echo " -- Backend is healthy" || echo " -- WARNING: Health check failed"
+          EOF
