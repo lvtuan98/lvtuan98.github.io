@@ -39,6 +39,24 @@ My research interests include Computer Vision (Medical Imaging and OCR), Generat
 
 ## 2026
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GenBio @ ICML 2026</div><img src='images/papers/HeteroEGA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Scaling Pocket Docking with Data Augmentation and Heterogeneous Equivariant Graph
+Attention](https://openreview.net/pdf?id=nvEX2gRb0S)
+
+Huyen Nguyen\*, **Tuan Le**\*, Kim-Loc Nguyen, Yuxing Peng, Emine Kucukbenli, Mai Thi Hien, Steven Truong, and Van Ha Tang
+
+
+The Workshop on Generative and Agentic AI for Biology (ICML 2026)
+
+<a href="https://openreview.net/pdf?id=nvEX2gRb0S"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<a href="https://github.com/NVIDIA-BioNeMo/nvDock"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
+<a href="https://huggingface.co/nvidia/nvDock"><img src="https://img.shields.io/badge/-HuggingFace-grey?logo=huggingface" alt="Hugging Face"></a>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Molecular Diversity</div><img src='images/papers/FRAIL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
