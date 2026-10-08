@@ -102,7 +102,7 @@ Thesis: “Building a system to evaluate the balance ability of the human body b
 Outcomes: CGPA: 3.62/4.0 (equivalent to 90.5%), and 2 journal publications.
 
 # 💻 Experience
-- *Dec.2024 - Now*: Applied Scientist, NVIDIA (https://www.linkedin.com/company/nvidia/), Vietnam.
+- *Dec.2024 - Sep. 2026*: Applied Scientist, NVIDIA (https://www.linkedin.com/company/nvidia/), Vietnam.
 - *Feb. 2023 - Oct. 2024*: AI Researcher, AI Research Lab, SDSRV, Samsung SDS (https://www.linkedin.com/company/samsung-sds/), Samsung Group, Vietnam.
 - *Feb. 2022 - Dec. 2022*: Applied Scientist, Department of AI Computer Vision, VinBrain (https://www.linkedin.com/company/vinbrain/), Vingroup, Vietnam.
 - *Sep. 2021 - Jul. 2022*: AI Engineer in AI Engineer Training Program, VinBigdata Institute (https://www.linkedin.com/company/vin-big-data/), Vingroup, Vietnam.
