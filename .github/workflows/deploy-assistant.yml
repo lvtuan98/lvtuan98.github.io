@@ -2,7 +2,7 @@ name: Deploy Chat Assistant to Remote Server
 
 on:
   push:
-    branches: ["main"]
+    branches: ["ai-assist"]
     paths:
       - "assistant/**"
   workflow_dispatch:
