@@ -3,10 +3,10 @@
 ## Author Profile (from site config)
 - Name: Van-Tuan Le
 - Bio: Talk less - Do more!
-- Location: Hanoi, Vietnam
+- Location: Wollongong, Australia
 - Google Scholar: https://scholar.google.com/citations?user=GOOGLE_SCHOLAR_ID
-- CV: resume/Van-Tuan Le - Resume.pdf
-- Title/Role: AI Researcher | Applied Scientist at NVIDIA
+- CV: resume/Van-Tuan Le - Resume_202610.pdf
+- Title/Role: PhD Student at University of Wollongong, Australia
 - Homepage: https://lvtuan98.github.iolvtuan98.github.io
 
 ---
@@ -15,19 +15,23 @@
 
 # About Me
 
-Currently, I am an Applied Scientist at NVIDIA Vietnam. Prior to this, I accumulated 4 years of industry experience in AI research and development.
+I am currently a PhD Student at the University of Wollongong (UOW), focusing on AI research with interests spanning AI Safety, Computer Vision.
 
-I graduated with an Excellent degree in Electronic and Telecommunication Engineering from Hanoi University of Science and Technology, ranking among the top 5 students in the program.
+Previously, I worked as an Applied Scientist at NVIDIA Vietnam, where I gained extensive industry experience in AI research and development.
 
-My research interests include Computer Vision (Medical Imaging and OCR), Generative AI, and AI for Biology.
+I graduated with an Excellent degree in Electronic and Telecommunication Engineering from Hanoi University of Science and Technology, ranking among the top 5 students in my program.
+
+My research interests include AI Safety, AI for Biology, Computer Vision, Medical Imaging, OCR, and Generative AI. I am also interested in opportunities to collaborate with researchers and practitioners across academia and industry.
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 1 paper about Biology was accepted by GenBio Workshop at ICML (rank A*). 
+- *2026.09*: &nbsp;🎉🎉 I have started a new role as a PhD Student in Computer Science at the University of Wollongong, Australia.
+- *2026.09*: &nbsp;🎉🎉 A paper on Biology is accepted for an oral presentation at NTECH (an internal conference organized by NVIDIA).
+- *2026.05*: &nbsp;🎉🎉 A paper about Biology is accepted by GenBio Workshop at ICML (rank A*). 
 - *2026.01*: &nbsp;🎉🎉 My project at NVIDIA is released, please check out Diffdock (https://build.nvidia.com/mit/diffdock/modelcard).
-- *2026.01*: &nbsp;🎉🎉 1 paper about Biology was accepted by Molecular Diversity (ISI-Q2).
+- *2026.01*: &nbsp;🎉🎉 A paper about Biology is accepted by Molecular Diversity (ISI-Q2).
 - *2024.12*: &nbsp;🎉🎉 I start a new role as an Applied Scientist at NVIDIA (VN).
 - *2023.02*: &nbsp;🎉🎉 I start a new role as an AI Reseacher at SamsungSDS (VN).
-- *2022.02*: &nbsp;🎉🎉 1 paper about Image Processing was accepted by IJEECS (ISI-Q3) - _This is also my thesis_.
+- *2022.02*: &nbsp;🎉🎉 A paper about Image Processing is accepted by IJEECS (ISI-Q3) - _This is also my thesis_.
 - *2021.09*: &nbsp;🎉🎉 I graduated with excellent degree from Hanoi University of Science and Technology and started working at Vingroup as an Applied Scientist.
 
 # 📝 Publications 
@@ -83,6 +87,7 @@ Journal of Science & Technology technical Universities (2019).
 
 # 🎖 Honors and Awards
 
+- *Apr. 2026*: ARC Linkage Project Scholarship and International Postgraduate Tuition Award, UOW, Australia. 
 - *Aug. 2021*: Certificate of Excellent Graduate Student, HUST, Vietnam
 - *Aug. 2021*: Best Thesis Presentation Award - School of Electronics and Telecommunication, HUST, Vietnam
 - *Feb. 2021*: Certificate of Teaching Assistantship, for first semester in 2020 at the School of Electronics and Telecommunication, HUST, Vietnam.
