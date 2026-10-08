@@ -127,7 +127,7 @@ Outcomes: CGPA: 3.62/4.0 (equivalent to 90.5%), and 2 journal publications.
 
 
 # 💻 Experience
-- *Dec.2024 - Now*: Applied Scientist, <a href="https://www.linkedin.com/company/nvidia/">NVIDIA</a>, Vietnam.
+- *Dec.2024 - Sep. 2026*: Applied Scientist, <a href="https://www.linkedin.com/company/nvidia/">NVIDIA</a>, Vietnam.
 - *Feb. 2023 - Oct. 2024*: AI Researcher, AI Research Lab, SDSRV, <a href="https://www.linkedin.com/company/samsung-sds/">Samsung SDS</a>, Samsung Group, Vietnam.
 - *Feb. 2022 - Dec. 2022*: Applied Scientist, Department of AI Computer Vision, <a href="https://www.linkedin.com/company/vinbrain/">VinBrain</a>, Vingroup, Vietnam.
 - *Sep. 2021 - Jul. 2022*: AI Engineer in AI Engineer Training Program, <a href="https://www.linkedin.com/company/vin-big-data/">VinBigdata Institute</a>, Vingroup, Vietnam.
