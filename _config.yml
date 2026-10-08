@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Van-Tuan Le"
-description              : "AI Researcher | Applied Scientist at NVIDIA"
+description              : "PhD Student at University of Wollongong, Australia"
 repository               : "lvtuan98/lvtuan98.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +24,7 @@ author:
   name             : "Van-Tuan Le"
   avatar           : "images/profile/avatar_image.jpg"
   bio              : "Talk less - Do more!"
-  location         : "Hanoi, Vietnam"
+  location         : "Wollongong, Australia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GOOGLE_SCHOLAR_ID" #https://scholar.google.com/citations?user=Ik2bTR4AAAAJ
@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : "resume/Van-Tuan Le - Resume.pdf"
+  cv               : "resume/Van-Tuan Le - Resume_202610.pdf"
 
 # Chat Assistant
 chat_assistant:
